@@ -1,6 +1,6 @@
 ![ForkDelta Logo](https://forkdelta.github.io/images/title.png)
 
-The URL of this project is forkdelta.github.io. Bookmark it once and use the bookmark.
+The URL of this project is https://forkdelta.github.io. Bookmark it once and use the bookmark.
 
 This interface is a fork of EtherDelta. It interacts with the original API and contract.
 
